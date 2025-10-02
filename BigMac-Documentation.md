@@ -194,10 +194,3 @@ World Bank. "World Development Indicators." https://data.worldbank.org/
 Applied Quantitative Methods Course, Aalborg University Business School, 2025
 
 ---
-
-## Example Code Snippets
-
-**Loading data:**
-```python
-import pandas as pd
-df = pd.read_csv('bigmac_enhanced.csv')
